@@ -1,0 +1,59 @@
+# Astrocade UGC Algorithm
+
+> How Games Are Reviewed, Tested, and Promoted
+> 
+
+This document explains the algorithm on how games move through Astrocade after submission and how distribution is determined.
+
+Our core principle is simple: **games players enjoy more get more reach.**
+
+## 1. Submission & Manual Review
+
+After submission, every game goes through a manual review to ensure:
+
+- It works properly on **mobile devices and desktop**
+- Core gameplay is functional
+- Content follows Astrocade’s **safety and content guidelines**
+
+Approved games move on to testing.
+
+---
+
+## 2. Initial Testing
+
+Approved games are shown to a **small group of players** (and in Playtest sections) to gather early performance data.
+
+Key early metrics include:
+
+- Play duration
+- Click-through rate (CTR)
+- Engagement signals
+
+---
+
+## 3. Scaled Distribution
+
+Games with strong early performance are shown to **more players**.
+
+At this stage, games will be shown to more players:
+
+- The **TikTok-style feed**
+- The **New** section
+
+Metrics are continuously evaluated and may evolve over time.
+
+---
+
+## 4. Featured & Top Picks
+
+Games that exceed a higher performance bar are promoted to **Featured** and **Top Picks**.
+
+These games show consistently strong player engagement and receive the highest visibility on Astrocade.
+
+---
+
+## Creator Takeaway
+
+- Early player engagement matters most
+- Optimize for fun, clarity, and mobile-first gameplay
+- The better players respond, the more your game is promoted
