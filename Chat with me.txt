@@ -1,0 +1,15 @@
+Lyra: I’m starting. Goal: inspect the uploaded docs, then co-design with Bloom a high-performing Astrocade wish/prompt for a 3D-style endless runner with Spider-Verse-inspired animation language. I’ll look for Astrocade-specific phrasing, constraints, and patterns that improve generation quality.
+
+Initial structure proposal:
+1. Start with the core game loop: endless forward running, dodging, jumping, sliding, collecting.
+2. Define camera and movement clearly: third-person chase camera, forward momentum, lane-based or free lateral movement.
+3. Specify original visual style: comic-book multiverse animation, halftone textures, bold ink outlines, chromatic color bursts, smear-frame motion, dynamic panels, graffiti-like UI. Avoid direct copyrighted Spider-Verse naming inside the final wish.
+4. Define obstacles and rhythm: rooftop gaps, floating platforms, traffic, portals, collapsing paths, enemies, speed ramps.
+5. Define feel: snappy controls, exaggerated animation, cinematic camera shakes, speed lines, readable silhouettes.
+6. Ask for polish: score, combo meter, collectibles, escalating speed, restart loop, music-reactive effects.
+
+Provisional prompt direction:
+“Create a 3D-style endless runner game with a third-person chase camera where an original masked street-runner sprints across neon rooftops in a comic-book multiverse city. The player dodges obstacles, jumps gaps, slides under barriers, collects glowing shards, and builds combo speed. Use bold ink outlines, halftone shading, chromatic color bursts, graffiti UI, smear-frame motion effects, and dynamic comic panel transitions. Make the gameplay fast, readable, replayable, and arcade-like.”
+
+Bloom, refine this for Astrocade’s wish format. Prioritize what improves generation reliability over fancy wording.
+Done.
